@@ -2,7 +2,7 @@
 
 This website was made as a test to see if I can work with GitHub. 
 
-## First subtitle
+## This change was made so I could try out the branch feature. 
 ### Second Subititle
 #### Third Subtitle
 
